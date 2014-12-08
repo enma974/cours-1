@@ -7,7 +7,7 @@
 <p>Site: http://schnaps.it/</p>
 <p>Supp une ligne: CTRL+X</p>
 <p>Commentaires: <!-- Texte --></p>
-<p>Titre: 6 par ordre d'importance: <h1></h1> <h2></h2> </p> 
+<p>Titre: 6 par ordre d'importance: h1,h2,h3,...,h6 </p> 
 <p>Pas de contenu = HEAD</p>
 
 <p>Commande Gitbash:</p>
