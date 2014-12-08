@@ -1,19 +1,17 @@
 ## Cours 1 - 04/12/14 ##
-Voir le Front: CTRL+U
-Générateur de Texte: Lorem Ipsum
-Balise Paragraphe: <p></p> Raccourcis P+TAB
-Balise Lien: <a></a>
-HTML > Head > Body
-Site: http://schnaps.it/
-Supp une ligne: CTRL+X
-Commentaires: <!-- Texte -->
-Titre: 6 par ordre d'importance 
+<p>Voir le Front: CTRL+U</p>
+<p>Générateur de Texte: Lorem Ipsum</p>
+<p>Balise Paragraphe: <p></p> Raccourcis P+TAB</p>
+<p>Balise Lien: <a></a> </p>
+<p>HTML > Head > Body</p>
+<p>Site: http://schnaps.it/</p>
+<p>Supp une ligne: CTRL+X</p>
+<p>Commentaires: <!-- Texte --></p>
+<p>Titre: 6 par ordre d'importance: <h1></h1> <h2></h2> </p> 
+<p>Pas de contenu = HEAD</p>
 
-    <h1></h1> <h2></h2>
-
-Pas de contenu = HEAD
-
-Commande Gitbash
-Ajouter: git add .
-Message: git commit "TEXTE"
-Envoyer: git push origin master
+<p>Commande Gitbash:</p>
+<p>Status: git status</p>
+<p>Ajouter: git add .</p>
+<p>Message: git commit "TEXTE"</p>
+<p>Envoyer: git push origin master</p>
