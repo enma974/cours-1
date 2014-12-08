@@ -5,3 +5,9 @@ HTML > Head > Body
 Site: http://schnaps.it/
 Supp une ligne: CTRL+X
 Commentaires: <!-- Texte -->
+
+Commande Git:
+git status - Voir les Fichier Modifier
+git add . - Ajoute les Fichier
+git commit -m - Ajoute un message
+git  push origin master - Upload
